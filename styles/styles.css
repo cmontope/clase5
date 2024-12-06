@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: rgb(144, 211, 202);
+}
+
+header img {
+    padding: 60px;
+    border: 30px solid black;
+}
+
+
+main p span {
+    font-size: x-large;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+
+
+.myClass {
+    background-color: brown;
+}
+
+#basic {
+    background-color: rgb(186, 137, 233);
+}
